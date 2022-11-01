@@ -33,7 +33,7 @@ variable "public_az" {
 
 variable "public_tags" {
     type = string
-    default = "public_subnet"
+    default = "public_subnet_test"
 
   
 }
