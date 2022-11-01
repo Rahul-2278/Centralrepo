@@ -7,7 +7,7 @@ variable "vpc_cidr_block" {
 
 variable "vpc_tag" {
     type = string
-    default = "my_vpc_1st"
+    default = "my_vpc_merge_test"
   
 }
 
