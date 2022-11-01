@@ -55,7 +55,7 @@ variable "private_az" {
 
 variable "private_tags" {
     type = string
-    default = "private_subnet"
+    default = "private_subnet_test"
 
   
 }
